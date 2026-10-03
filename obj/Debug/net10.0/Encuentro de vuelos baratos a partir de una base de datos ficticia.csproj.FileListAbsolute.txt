@@ -1,0 +1,15 @@
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\bin\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.exe
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\bin\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.deps.json
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\bin\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.runtimeconfig.json
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\bin\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.dll
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\bin\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.pdb
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.AssemblyInfoInputs.cache
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.AssemblyInfo.cs
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.csproj.CoreCompileInputs.cache
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.sourcelink.json
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.dll
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\refint\Encuentro de vuelos baratos a partir de una base de datos ficticia.dll
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.pdb
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\Encuentro de vuelos baratos a partir de una base de datos ficticia.genruntimeconfig.cache
+C:\Users\Hogar\OneDrive\Documentos\Encuentro de vuelos baratos a partir de una base de datos ficticia\obj\Debug\net10.0\ref\Encuentro de vuelos baratos a partir de una base de datos ficticia.dll

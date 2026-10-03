@@ -1,0 +1,8 @@
+Quito|Guayaquil|LATAM|45.50
+Quito|Cuenca|Avianca|52.00
+Guayaquil|Quito|LATAM|40.00
+Quito|Manta|Avianca|38.50
+Cuenca|Quito|LATAM|48.00
+Guayaquil|Cuenca|Avianca|35.00
+Manta|Quito|LATAM|42.50
+Quito|Guayaquil|Avianca|50.00
